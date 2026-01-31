@@ -1,8 +1,7 @@
 # CyanCaptioner: A MMLM based Video Captioning Agent
 
-<p align="left">
-  <img src="./demo.png" width="200" alt="CyanCaptioner Logo">
-</p>
+[![ModelScope](https://img.shields.io/badge/ModelScope-Demo-blueviolet?style=flat-square&logo=modelscope)](https://www.modelscope.cn/studios/CyanSwift/CyanCaptioner/summary)
+
 
 ---
 
